@@ -1,0 +1,6 @@
+ERROR:root:Exception occured
+Traceback (most recent call last):
+  File "c:\Users\iitia\OneDrive\Documents\{BASIC}Automation of Excel with Python Assignment\17AdvancedException-Handling.py", line 75, in <module>
+    1/0
+    ~^~
+ZeroDivisionError: division by zero
